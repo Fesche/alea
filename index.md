@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Trær og dumme voksne
 
-You can use the [editor on GitHub](https://github.com/Fesche/alea/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Som barn var jeg velsignet med mange leker. Jeg hadde Action Man, Game Boy, hoppestav og diablo. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Til tross for dette, var det to leker jeg utvilsomt likte best. Hadde du spurt mine venner, tror jeg også de ville ha gitt det samme svaret. Hvis de i det hele tatt hadde kommet på å kategorisere disse tingene som leker.
 
-### Markdown
+Jeg snakker selvfølgelig om henholdsvis ball og pinne.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ballen er en selvskreven topp-leke. Barn og voksne verden over leker ukentlig med ball. Wikipedia kan liste over 170 forskjellige ballsporter fra samtlige av verdens kriker og kroker. Ballen er den universale leke. Går jeg forbi noen som sparker en fotball, kan jeg ikke la være å lengselsfult håpe på at de skal skyte den i min retning, bare så jeg kan sparke den tilbake. Finner jeg en liten ball, plukker jeg den opp nesten uten unntak, eller sparker den gatelangs til den triller ned i en uangripelig grøft. Selv ett enkelt sprett eller spark er nok. Nok til at humøret løftes, og gangen blir litt lettere. 
 
-```markdown
-Syntax highlighted code block
+Pinnen, på den andre side, mistenker jeg å være noe mindre universal. Det er langt færre pinnesporter enn ballsporter, og som voksen må jeg innrømme at den engang så magiske pinnen har mistet mye av sin sjarm. Da jeg gikk på barneskolen derimot, var pinnen alfa og omega. Skolen min lå omringet av skog, og denne skogens pinner utgjorde min barndoms borger og sverd. Hver vår og høst bygget vi små hytter og mektige slott av pinner, og inntil vi var gamle nok til å gjøre faktisk skade var skolegården regelmessig vitne til episke slag.
 
-# Header 1
-## Header 2
-### Header 3
+Det er her de voksne kommer inn i historien. Eller rettere sagt, overraskende nok er det ikke her de kommer inn. For det var aldri volden vi utøvde mot hverandre som berettiget irettesettelse. Det var volden vi utøvde mot trærne.
 
-- Bulleted
-- List
+Det er ikke til å skyve under en stol, at trærne var de største ofrene under pinnelek. Og kan så være ble skogen omkring skolen litt tynnere i veksten takket være vår innsats, men det er de voksnes argument som alltid forundret meg. De sa alltid noe i duren "hva om noen kom og rev armene av deg? Ville du likt det?". Selv som barn syntes jeg dette argumentet var nærmest pinlig dårlig. Det kunne da umulig være sammenliknbart å rive en pinne av et tre som å rive en lem av et menneske? Eller et hvilket som helst annet dyr? Hvis det er vold å knekke greiner av et tre, hva er det da å høste en kornåker? Folkemord? Greit nok om dere syntes det ble stygt med de brukne grenene, eller næret en slags spirituell omsorg for buskvekster, men forklar det da på en måte som gir mening. Under denne oppfatning forholdt jeg meg til min egen fornuft, og fortsatte å høste greiner fra trær, om enn kanskje litt mer omtenksomt enn tidligere.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fesche/alea/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Kan du tro min store overraskelse da jeg kom tilbake til skolen som voksen, og fikk se at nesten hele skogen var fjernet til fordel for asfaltert lekeplass og parkeringsplass. De dumme voksne hadde dradd opp alle trærne. Er det mulig?
