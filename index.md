@@ -3,7 +3,7 @@
 Jeg lærte nylig om et nyttig statistisk konsept - skillet mellom aleatorisk og epistemisk usikkerhet. Ordet "aleatorisk" kommer fra det romerske terningspillet alea, og aleatorisk usikkerhet er usikkerheten som kommer av de sanne stokastiske elementene i utfallet vi modellerer. Epistemisk usikkerhet er derimot usikkerheten som kommer av ting vi ikke vet, men som påvirker utfallet. Et eksempel på aleatorisk usikkerhet er usikkerhet i målingsmetoden som ligger til grunn for dataene, mens et eksempel på epistemisk usikkerhet er hvilke kort motstanderen sitter med i poker.
 
 ![Cæsar modellerer invasjon av Italia](./img/C%C3%A6SAR_PAUSED_ON_THE_BANKS_OF_THE_RUBICON.jpg)
-<br>*<sub><sup>"Alea iacta est" - Julius Cæsar som blander sammen aleatorisk og epistemisk usikkerhet</sub></sup>*
+<br><sup>"Alea iacta est" - Julius Cæsar som blander sammen aleatorisk og epistemisk usikkerhet</sup>*
 
 Allerede i eksemplet over, valgt for å være erketypisk, kan man imidlertid merke en spenning. Hvis man kan forbedre målemetoden, er ikke da målingsusikkerhet epistemisk? Og hvis man antar at modellen må forholde seg til spillets regler i poker, er ikke da usikkerheten som resulterer av å ikke vite motstanderens hånd ureduserbar, og dermed aleatorisk? Definisjonene er dermed avhengig av kontekst, og selv aleatorisk usikkerhet fordufter for Maxwells demon. 
 
