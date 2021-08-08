@@ -1,4 +1,28 @@
+# Epistemisk usikkerhet
 
+Jeg lærte nylig om et nyttig statistisk konsept - skillet mellom aleatorisk og epistemisk usikkerhet. Ordet "aleatorisk" kommer fra det romerske terningspillet alea, og aleatorisk usikkerhet er usikkerheten som kommer av de sanne stokastiske elementene i utfallet vi modellerer. Epistemisk usikkerhet er derimot usikkerheten som kommer av ting vi ikke vet, men som påvirker utfallet. Et eksempel på aleatorisk usikkerhet er usikkerhet i målingsmetoden som ligger til grunn for dataene, mens et eksempel på epistemisk usikkerhet er hvilke kort motstanderen sitter med i poker.
+
+![Cæsar modellerer invasjon av Italia](https://github.com/Fesche/log_b/blob/gh-pages/img/C%C3%A6SAR_PAUSED_ON_THE_BANKS_OF_THE_RUBICON.gif)
+<br>*<sub><sup>"Alea iacta est" - Julius Cæsar som blander sammen aleatorisk og epistemisk usikkerhet</sub></sup>*
+
+Allerede i eksemplet over, valgt for å være erketypisk, kan man imidlertid merke en spenning. Hvis man kan forbedre målemetoden, er ikke da målingsusikkerhet epistemisk? Og hvis man antar at modellen må forholde seg til spillets regler i poker, er ikke da usikkerheten som resulterer av å ikke vite motstanderens hånd ureduserbar, og dermed aleatorisk? Definisjonene er dermed avhengig av kontekst, og selv aleatorisk usikkerhet fordufter for Maxwells demon. 
+
+Definisjonen er allikevel nyttig som konseptuelt verktøy når man tenker over bruk av maskinlæringsmodeller. Lærebøker i maskinlæring og statistikk har en tendens til å behandle all usikkerhet som aleatorisk, men i virkeligheten er det skjelden at dette er den viktigste kilden til usikkerhet. Problemet er at det alltid er fristende å tolke en output fra en modell trent til binær klassifisering som sannsynligheten for at utfallet finner sted. I "modell-universet", bestående av et sett observasjoner av et utvalg dimensjoner, så er dette i de fleste tilfeller matematisk korrekt. Hvis dataene inneholder alle relevante dimensjoner for utfallet, og er representative for en underliggende fordeling så har man ingenting å frykte. Hvis man derimot modellerer utfall som finner sted i virkeligheten og avhenger av komplekse systemer (som menneskelige avgjørelser), så har man som regel ingen grunn til å tro at noen av disse antagelsene holder. Modellens output må dermed tolkes ikke som en sannsynlighet, men som en sannsynlighet *gitt modellens tilgjengelige observasjoner*. Dette høres kanskje ut som flisespikkeri, men det er viktig å ha i bakhodet når man skal formidle resultatene fra en modellkjøring. Dersom man har grunn til å tro at det finnes viktige dimensjoner eller sjeldne observasjoner som ikke finnes i modellens treningsdata er dette vel så viktig informasjon å få med seg når man tolker resultatet av en kjøring som selve outputen fra modellen. Den epistemiske usikkerheten kan være så mangt, inkludert ukjente variabler som dominererer alle dimensjoner inkludert i modellen.
+
+Det vitner om fagets umodenhet at dette ikke er konsepter som gnis inn fra starten på universitetet. I hvert fall ble det ikke gnidd inn da jeg tok mine kurs i maskinlæring for 3-4 år siden.
+
+Til slutt: EUs matsikkerhetsmyndighet EFSA har utviklet [et rammeverk for formidling av usikkerhet](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5520) som inkluderer åtte punkter:
+
+> 1. unqualified conclusions with no expression of uncertainty; 
+> 2. description of a source of uncertainty; 
+> 3. qualitative description of the direction and/or magnitude of uncertainty; 
+> 4. inconclusive assessment; 
+> 5. a precise probability; 
+> 6. an approximate probability; 
+> 7. a probability distribution; and 
+> 8. a two-dimensional probability distribution.
+
+Jeg skal definitivt ha dette i bakhodet når jeg kommuniserer output fra mine modeller fremover!
 
 # Trær og dumme voksne
 
