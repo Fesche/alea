@@ -6,7 +6,7 @@ Jeg har reist til Krakow for å bistå som frivillig for Dråpen i havet. Arbeid
 Ankommet hotellet utenfor Krakow klokken 2230. Mine første inntrykk av Polen er for det første at de har hyggelige taxisjåfører, og for det andre at Polen fremstår som mye finere/rikere/mer moderne enn jeg hadde forventet.
 
 Se på dette kartet:
-![Relativ GDP EU regionsnivå](https://ec.europa.eu/eurostat/documents/4187653/11571499/GDP_per_capita_ver3-01.jpg)
+![Relativ GDP EU regionsnivå](img/gpd_ep.png)
 
 Man skulle tro at Polen, selv her i det lillepolske voivodskap, var litt... stusselig? Grå kommunistblokker og halvveis infrastruktur i et land som gradvis, men pinefullt langsomt konvergerer mot EUs gjennomsnittlige velstandsnivå. I stedet så så alt jeg så på min halvtimeslange taxitur fra flyplassen ut som det hørte hjemme i Norge eller Tyskland. Flotte, nye veier skar gjennom moderne boligblokker, industriparker og kjøpesenterområder. Kartet over vitner om at det kanskje ikke er hele historien. Kanskje det er større forskjeller på by og land enn i de overnevnte landene? Uansett så er jeg imponert og glad på Polens vegne.
 
